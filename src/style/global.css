@@ -1,0 +1,12 @@
+.list {
+  text-align: left;
+  max-width: 75%;
+  margin: auto;
+}
+
+.pdr5 { padding-right:3px;}
+.mb15 { margin:15px 0 !important;}
+.imground { width:45px; height:45px; border-radius:50%; background-color:#FFFFFF; padding:2px; margin-left:50px; }
+.mleft { margin-left:60px;}
+.text-center { text-align:center; font-size:13px;}
+.white-text { color:#FFFFFF !important; font-size:18px; }
